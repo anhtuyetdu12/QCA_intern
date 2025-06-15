@@ -6,7 +6,6 @@ Variables   locator.py
 # Test Teardown Log out tài khoản  quay lại tranhg chủ
 # Suite Teardown Đóng trang web   đóng trình duyệt 
 
-
 *** Variables ***
 ${test}  A
 
